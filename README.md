@@ -1,6 +1,6 @@
 # fetchRewards
 Fetch Rewards Coding Exercise - Software Engineering - Mobile
-Submission by David Lee
+'Submission by David Lee'
 
 
 # The App
